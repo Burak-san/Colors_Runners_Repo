@@ -3,7 +3,7 @@
 ![movie_002_AdobeExpress](https://user-images.githubusercontent.com/60696929/188221693-eacdc428-5f94-4487-b759-0533ce026972.gif)
 
 ## Indroduce
-*Hi:punch:,I'm from Turkey,and I am developing game.*
+*Hi:punch:,I'm from Turkey, and I am developing game.*
 *We developed this game with my teammate for the third game of Levelup Academy. Detailed information about the game is given below. Have a nice day*
 
 ***Burak Orhan*** [<img src='https://user-images.githubusercontent.com/60696929/204912731-b8081ee2-5257-4539-b4e0-d3e3c39258e6.png' alt='github' height='40' color='#6e5494'>](https://github.com/Burak-san)  [<img src='https://user-images.githubusercontent.com/60696929/204913261-ae19de34-6a4f-4b0d-ae28-6a66ecc94fe1.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/burak-orhan-aohg2022//)
